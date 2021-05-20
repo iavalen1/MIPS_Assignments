@@ -1,0 +1,18 @@
+Name: Ivan Valenzuela
+ASU ID: 1212575947
+ASUrite: iavalen1
+
+problem1:
+
+This one is simple. Just type in your string when prompted. Maximum of 100 characters.
+
+problem2:
+
+For this one, you have to change the array and the size to match it.
+
+problem 3:
+
+For this one, if you change the array, you also have to change the maximum index (starting from 0) on line 35.
+
+ex1: array = [1,2,3,4,5] line 35: bne $a1, 4, compute_recurse
+ex2: array = [1,2,3,4,5,6] line 35: bne $a1, 5, compute_recurse
